@@ -7,7 +7,6 @@
     ruby_install_ruby_versions:
       - 2.1.2
     ruby_users:
-      - vagrant
       - root
   tasks:
     - include: galaxy/innohub-ansible.ruby-install/tasks/main.yml
