@@ -1,5 +1,4 @@
-# InnoHub Ansible : ruby [![Build
-Status](https://travis-ci.org/innohub-ansible/ruby-install.svg?branch=master)](https://travis-ci.org/innohub-ansible/ruby-install)
+# InnoHub Ansible : ruby [![Build Status](https://travis-ci.org/innohub-ansible/ruby-install.svg?branch=master)](https://travis-ci.org/innohub-ansible/ruby-install)
 
 Uses ruby-install and chruby to install and setup ruby.
 
