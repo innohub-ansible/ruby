@@ -15,5 +15,5 @@ galaxy_info:
     - system
 
 dependencies:
-  - innohub-ansible.ruby_install
+  - innohub-ansible.ruby-install
   - innohub-ansible.chruby
