@@ -13,6 +13,7 @@ galaxy_info:
   categories:
     - development
     - system
-  dependencies:
-    - { role: innohub-ansible.ruby_install }
-    - { role: innohub-ansible.chruby }
+
+dependencies:
+  - innohub-ansible.ruby_install
+  - innohub-ansible.chruby
