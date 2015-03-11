@@ -1,5 +1,9 @@
 ---
 
+- name: update apt cache
+  sudo: true
+  apt: update_cache=yes
+
 - name: Install rubies
   sudo: true
   with_items: ruby_install_ruby_versions
