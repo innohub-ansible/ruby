@@ -3,9 +3,9 @@
     - galaxy/innohub-ansible.ruby-install/defaults/main.yml
     - galaxy/innohub-ansible.chruby/defaults/main.yml
   vars:
-    ruby_default_version: 2.1.2
+    ruby_default_version: 2.2.1
     ruby_install_ruby_versions:
-      - 2.1.2
+      - 2.2.1
     ruby_users:
       - root
   tasks:
